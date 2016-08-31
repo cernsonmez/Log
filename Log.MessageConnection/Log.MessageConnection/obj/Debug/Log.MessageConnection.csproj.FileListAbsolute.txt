@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\SFS\Log.MessageConnection\Log.MessageConnection\bin\Debug\Log.MessageConnection.dll.config
+C:\Users\user\Desktop\SFS\Log.MessageConnection\Log.MessageConnection\bin\Debug\Log.MessageConnection.dll
+C:\Users\user\Desktop\SFS\Log.MessageConnection\Log.MessageConnection\bin\Debug\Log.MessageConnection.pdb
+C:\Users\user\Desktop\SFS\Log.MessageConnection\Log.MessageConnection\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\user\Desktop\SFS\Log.MessageConnection\Log.MessageConnection\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\user\Desktop\SFS\Log.MessageConnection\Log.MessageConnection\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\user\Desktop\SFS\Log.MessageConnection\Log.MessageConnection\obj\Debug\Log.MessageConnection.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SFS\Log.MessageConnection\Log.MessageConnection\obj\Debug\Log.MessageConnection.dll
+C:\Users\user\Desktop\SFS\Log.MessageConnection\Log.MessageConnection\obj\Debug\Log.MessageConnection.pdb
